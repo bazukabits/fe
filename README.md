@@ -1,2 +1,2 @@
 # fe
-auto fail extractor from .zip file
+auto file extractor from .zip file by keyword
