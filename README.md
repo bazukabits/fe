@@ -7,5 +7,5 @@ pip install watchdog pathlib
 ```
 ### Run Python
 ```bash
-python Observer_v2.py <watch_dir1> <watch_dir2> <watch_dir3> <watch_dir4> <output_root>
+python Observer.py <watch_dir1>
 ```
